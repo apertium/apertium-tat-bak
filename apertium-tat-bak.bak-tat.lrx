@@ -2,4 +2,7 @@
   <rule>
     <match lemma="эт"><select lemma="эт"/></match>
   </rule>
+  <rule>
+    <match lemma="Грузия"><select lemma="Гөрҗистан"/></match>
+  </rule>
 </rules>

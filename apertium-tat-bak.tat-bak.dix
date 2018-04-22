@@ -1752,6 +1752,8 @@
     <e><p><l>Башкортстан<s n="np"/><s n="top"/></l><r>Башҡортостан<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Татарстан<s n="np"/><s n="top"/></l><r>Татарстан<s n="np"/><s n="top"/></r></p></e>
 
+    <e><p><l>Хәмсә<s n="np"/><s n="al"/></l><r>Хәмсә<s n="np"/><s n="al"/></r></p></e>
+
     <!-- Toponyms: Republics and regions of Russia -->
     <e><p><l>Кавказ<s n="np"/><s n="top"/></l><r>Кавказ<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Хакасия<s n="np"/><s n="top"/></l><r>Хакасия<s n="np"/><s n="top"/></r></p></e>
@@ -1770,11 +1772,13 @@
     <e><p><l>Алмания<s n="np"/><s n="top"/></l><r>Алмания<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Германия<s n="np"/><s n="top"/></l><r>Германия<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Гөрҗистан<s n="np"/><s n="top"/></l><r>Грузия<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Грузия<s n="np"/><s n="top"/></l><r>Грузия<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Гыйрак<s n="np"/><s n="top"/></l><r>Ираҡ<s n="np"/><s n="top"/></r></p></e>
     <e r="LR"><p><l>Ирак<s n="np"/><s n="top"/></l><r>Ираҡ<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Иран<s n="np"/><s n="top"/></l><r>Иран<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Кытай<s n="np"/><s n="top"/></l><r>№<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Пакистан<s n="np"/><s n="top"/></l><r>Пакистан<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Персия<s n="np"/><s n="top"/></l><r>Персия<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Рәсәй<s n="np"/><s n="top"/></l><r>Рәсәй<s n="np"/><s n="top"/></r></p></e>
     <e r="LR"><p><l>Россия<s n="np"/><s n="top"/></l><r>Россия<s n="np"/><s n="top"/></r></p></e>
     <e r="LR"><p><l>Русия<s n="np"/><s n="top"/></l><r>Рәсәй<s n="np"/><s n="top"/></r></p></e>
@@ -1800,6 +1804,8 @@
 
     <!-- Toponyms: Other cities -->
 
+    <e><p><l>Арран<s n="np"/><s n="top"/></l><r>Арран<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Гәнҗә<s n="np"/><s n="top"/></l><r>Гәнжә<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Кабул<s n="np"/><s n="top"/></l><r>Кабул<s n="np"/><s n="top"/></r></p></e>	<!-- Ҡабул түгелме башкортча -->
     <e><p><l>Мәскәү<s n="np"/><s n="top"/></l><r>№<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Новгород<s n="np"/><s n="top"/></l><r>Новгород<s n="np"/><s n="top"/></r></p></e>
@@ -1859,6 +1865,7 @@
 
     <e><p><l>Александр<s n="np"/><s n="ant"/><s n="m"/></l><r>Александр<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Владимир<s n="np"/><s n="ant"/><s n="m"/></l><r>Владимир<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>Әбү<s n="np"/><s n="ant"/><s n="m"/></l><r>Әбү<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Әхмәт<s n="np"/><s n="ant"/><s n="m"/></l><r>Әхмәт<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Габдулла<s n="np"/><s n="ant"/><s n="f"/></l><r>№Габдулла<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Гәнҗәви<s n="np"/><s n="cog"/><s n="mf"/></l><r>Гәнжәүи<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -1871,10 +1878,16 @@
     <e><p><l>Илдар<s n="np"/><s n="ant"/><s n="f"/></l><r>Илдар<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Илсур<s n="np"/><s n="ant"/><s n="f"/></l><r>Илсур<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Ильяс<s n="np"/><s n="ant"/><s n="m"/></l><r>Ильяс<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>Искәндәр<s n="np"/><s n="ant"/><s n="m"/></l><r>Искәндәр<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Йосыф<s n="np"/><s n="ant"/><s n="m"/></l><r>Йософ<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>Кириакос<s n="np"/><s n="ant"/><s n="m"/></l><r>Киракос<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>Ләйлә<s n="np"/><s n="ant"/><s n="f"/></l><r>Ләйлә<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Марат<s n="np"/><s n="ant"/><s n="f"/></l><r>Марат<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+    <e><p><l>Мәҗнүн<s n="np"/><s n="ant"/><s n="m"/></l><r>Мәжнүн<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Минтимер<s n="np"/><s n="ant"/><s n="f"/></l><r>Минтимер<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Мөхәммәт<s n="np"/><s n="ant"/><s n="m"/></l><r>Мөхәммәт<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>Муайад<s n="np"/><s n="ant"/><s n="m"/></l><r>Муайад<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>Низам<s n="np"/><s n="ant"/><s n="m"/></l><r>Низам<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Низами<s n="np"/><s n="ant"/><s n="m"/></l><r>Низами<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Равил<s n="np"/><s n="ant"/><s n="f"/></l><r>Равил<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Рөстәм<s n="np"/><s n="ant"/><s n="f"/></l><r>Рөстәм<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
@@ -1882,6 +1895,8 @@
     <e><p><l>Фәрит<s n="np"/><s n="ant"/><s n="f"/></l><r>Фәрит<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Хафиз<s n="np"/><s n="ant"/><s n="m"/></l><r>Хафиз<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Хәким<s n="np"/><s n="ant"/><s n="m"/></l><r>Хәким<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>Хөсрәү<s n="np"/><s n="ant"/><s n="m"/></l><r>Хосров<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>Ширин<s n="np"/><s n="ant"/><s n="f"/></l><r>Ширин<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 
     <e><p><l>Медведев<s n="np"/><s n="ant"/><s n="f"/></l><r>Медведев<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 
@@ -1891,8 +1906,10 @@
     <e><p><l>Тукай<s n="np"/><s n="ant"/><s n="f"/></l><r>№Тукай<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Шәймиев<s n="np"/><s n="ant"/><s n="f"/></l><r>Шәймиев<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 
+    <e c=""><p><l>Арслан<s n="np"/><s n="ant"/><s n="m"/></l><r>Арслан<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e c=""><p><l>Артур<s n="np"/><s n="ant"/><s n="m"/></l><r>Артур<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e c=""><p><l>Әбҗәлил<s n="np"/><s n="ant"/><s n="m"/></l><r>Әбйәлил<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e c=""><p><l>әд%-Дин<s n="np"/><s n="cog"/><s n="mf"/></l><r>әд%-Дин<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
     <e c=""><p><l>Әхмәтов<s n="np"/><s n="cog"/><s n="m"/></l><r>Әхмәтов<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
     <e c=""><p><l>Бабич<s n="np"/><s n="cog"/><s n="mf"/></l><r>Бабич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
     <e c=""><p><l>Балабанов<s n="np"/><s n="cog"/><s n="m"/></l><r>Балабанов<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
@@ -1921,6 +1938,8 @@
     <e c=""><p><l>Рамил<s n="np"/><s n="ant"/><s n="m"/></l><r>Рәмил<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e c=""><p><l>Рөстәм<s n="np"/><s n="ant"/><s n="m"/></l><r>Рөстәм<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e c=""><p><l>Руми<s n="np"/><s n="cog"/><s n="mf"/></l><r>Руми<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+    <e c=""><p><l>Рыпка<s n="np"/><s n="cog"/><s n="m"/></l><r>Рыпка<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
+    <e c=""><p><l>Саади<s n="np"/><s n="cog"/><s n="m"/></l><r>Саади<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
     <e c=""><p><l>Салават<s n="np"/><s n="ant"/><s n="m"/></l><r>Салауат<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e c=""><p><l>Сәфиуллин<s n="np"/><s n="cog"/><s n="m"/></l><r>Сәфиуллин<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
     <e c=""><p><l>Семивеличенко<s n="np"/><s n="cog"/><s n="mf"/></l><r>Семивеличенко<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -1958,6 +1977,7 @@
     <e c=""><p><l>Биишева<s n="np"/><s n="cog"/><s n="f"/></l><r>Биишева<s n="np"/><s n="cog"/><s n="f"/></r></p></e>
     <e c=""><p><l>Борис<s n="np"/><s n="ant"/><s n="m"/></l><r>Борис<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e c=""><p><l>Ширази<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ширази<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+
 
 <!-- SECTION: Adjectives - Прилагательные - Сыйфатлар -->
 
@@ -3070,6 +3090,7 @@
     <e><p><l>тикшер<s n="v"/><s n="tv"/></l><r>тикшер<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>тикшерен<s n="v"/><s n="iv"/></l><r>тикшерен<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>төзе<s n="v"/><s n="tv"/></l><r>төҙө<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>ту<s n="v"/><s n="iv"/></l><r>тыу<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>укы<s n="v"/><s n="tv"/></l><r>уҡы<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>үзгәрт<s n="v"/><s n="tv"/></l><r>үҙгәрт<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>үзләштер<s n="v"/><s n="tv"/></l><r>үҙләштер<s n="v"/><s n="tv"/></r></p></e>
