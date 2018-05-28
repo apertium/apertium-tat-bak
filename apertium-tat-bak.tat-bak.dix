@@ -280,12 +280,13 @@
 
     <e><p><l>үз<s n="prn"/><s n="ref"/></l><r>үҙ<s n="prn"/><s n="ref"/></r></p></e>
 
+    <e><p><l>берсе<s n="prn"/><s n="ind"/></l><r>береһе<s n="prn"/><s n="ind"/></r></p></e>
+
 <!-- SECTION: Determiners-->
 
     <e><p><l>бар<s n="det"/><s n="qnt"/></l><r>бар<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>барлык<s n="det"/><s n="qnt"/></l><r>барлыҡ<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>бер<s n="det"/><s n="ind"/></l><r>бер<s n="det"/><s n="ind"/></r></p></e>
-    <e><p><l>берсе<s n="det"/><s n="ind"/></l><r>береһе<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>берәр<s n="det"/><s n="ind"/></l><r>берәр<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>бернинди<s n="det"/><s n="ind"/></l><r>бер<b/>ниндәй<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>бу<s n="det"/><s n="dem"/></l><r>был<s n="det"/><s n="dem"/></r></p></e>
@@ -488,6 +489,7 @@
     <e><p><l>әйләнә<s n="n"/></l><r>әйләнә<s n="n"/></r></p></e>
     <e><p><l>әйтем<s n="n"/></l><r>әйтем<s n="n"/></r></p></e>
     <e><p><l>әмәл<s n="n"/></l><r>әмәл<s n="n"/></r></p></e>
+    <e><p><l>әлифба<s n="n"/></l><r>әлифба<s n="n"/></r></p></e>
     <e><p><l>әни<s n="n"/></l><r>әсә<s n="n"/></r></p></e>
     <e><p><l>әни<s n="n"/></l><r>әсәй<s n="n"/></r></p></e>
     <e><p><l>әнкәй<s n="n"/></l><r>әсәкәй<s n="n"/></r></p></e>
@@ -2167,13 +2169,15 @@
     <e><p><l>Стәрлетамак<s n="np"/><s n="top"/></l><r>Стәрлетамаҡ<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Урал<s n="np"/><s n="top"/></l><r>Урал<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Учалы<s n="np"/><s n="top"/></l><r>Учалы<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Австралия<s n="np"/><s n="top"/></l><r>Австралия<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Австрия<s n="np"/><s n="top"/></l><r>Австрия<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Авыргазы<s n="np"/><s n="top"/></l><r>Ауырғазы<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Агыйдел<s n="np"/><s n="top"/></l><r>Ағиҙел<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Актүбә<s n="np"/><s n="top"/></l><r>Аҡтүбә<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Алжир<s n="np"/><s n="top"/></l><r>Алжир<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Алтай<s n="np"/><s n="top"/></l><r>Алтай<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Атайсал<s n="np"/><s n="top"/></l><r>Атайсал<s n="np"/><s n="top"/></r></p></e>
-    <e><p><l>Авыргазы<s n="np"/><s n="top"/></l><r>Ауырғазы<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Антарктида<s n="np"/><s n="top"/></l><r>Антарктида<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Байконур<s n="np"/><s n="top"/></l><r>Байконур<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Байкоңыр<s n="np"/><s n="top"/></l><r>Байҡоңор<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Баймак<s n="np"/><s n="top"/></l><r>Баймаҡ<s n="np"/><s n="top"/></r></p></e>
@@ -2945,7 +2949,6 @@
     <e><p><l>һичкайчан<s n="adv"/></l><r>һисҡасан<s n="adv"/></r></p></e>
 
     <e c="">  <p><l>аеруча<s n="adv"/></l><r>айырыуса<s n="adv"/></r></p></e>
-    <e>       <p><l>алдындагы<s n="adv"/></l><r>алдындағы<s n="adv"/></r></p></e>
     <e c="">  <p><l>аннары<s n="adv"/></l><r>артабан<s n="adv"/></r></p></e>
     <e>       <p><l>аска<s n="adv"/></l><r>аҫҡа<s n="adv"/></r></p></e>
     <e c="">  <p><l>аңлатуларынча<s n="adv"/></l><r>аңлатыуҙарынса<s n="adv"/></r></p></e>
@@ -3484,7 +3487,7 @@
     <e><p><l>БМО<s n="abbr"/></l><r>БМО<s n="abbr"/></r></p></e>
     <e><p><l>БТА<s n="abbr"/></l><r>БТА<s n="abbr"/></r></p></e>
     <e><p><l>б.э.<s n="abbr"/></l><r>б.э.<s n="abbr"/></r></p></e>
-    <e><p><l>б.э.к.<s n="abbr"/></l><r>б.э.к.<s n="abbr"/></r></p></e>
+    <e><p><l>б.э.к.<s n="abbr"/></l><r>б.э.т.<s n="abbr"/></r></p></e>
     <e><p><l>ВАЗ<s n="abbr"/></l><r>ВАЗ<s n="abbr"/></r></p></e>
     <e><p><l>ВИЧ<s n="abbr"/></l><r>ВИЧ<s n="abbr"/></r></p></e>
     <e><p><l>геогр.<s n="abbr"/></l><r>геогр.<s n="abbr"/></r></p></e>
