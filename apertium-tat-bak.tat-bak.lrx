@@ -2,4 +2,7 @@
   <rule>
     <match lemma="ерак"><select lemma="йыраҡ" tags="adj"/></match>
   </rule>
+  <rule>
+    <match lemma="тиешле"><select lemma="тейешле" tags="adj"/></match>
+  </rule>
 </rules>
