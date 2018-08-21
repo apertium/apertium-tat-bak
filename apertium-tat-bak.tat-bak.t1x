@@ -18,8 +18,9 @@
       <attr-item tags="dat"/>
       <attr-item tags="gen"/>
       <attr-item tags="loc"/>
-      <attr-item tags="loc.attr"/> <!-- FIXME: This should be dealt with differently -->
+      <attr-item tags="loc.attr"/>
       <attr-item tags="abl"/>
+      <attr-item tags="equ"/>
     </def-attr>
        
     <def-attr n="poss">
