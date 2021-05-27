@@ -25,7 +25,7 @@ You will need the following software installed:
 * apertium-tat
 * apertium-bak
 
-If this does not make any sense, we recommend you look at: www.apertium.org
+If this does not make any sense, we recommend you look at: apertium.org
 
 Compiling
 ===============================================================================
@@ -85,10 +85,10 @@ For monolingual data, see the modules apertium-tat and apertium-bak.
 For more information
 ===============================================================================
 
-* http://wiki.apertium.org/wiki/Installation
-* http://wiki.apertium.org/wiki/Bashkir_and_Tatar
-* http://wiki.apertium.org/wiki/Using_an_lttoolbox_dictionary
-* http://wiki.apertium.org/wiki/Constraint_Grammar
+* https://wiki.apertium.org/wiki/Installation
+* https://wiki.apertium.org/wiki/Bashkir_and_Tatar
+* https://wiki.apertium.org/wiki/Using_an_lttoolbox_dictionary
+* https://wiki.apertium.org/wiki/Constraint_Grammar
 
 Help and support
 ===============================================================================
@@ -98,6 +98,6 @@ If you need help using this language pair or data, you can contact:
 * Mailing lists:
   - apertium-turkic@lists.sourceforge.net (Turkic language specific)
   - apertium-stuff@lists.sourceforge.net (General enquiries)
-* IRC: #apertium on irc.freenode.net
+* IRC: #apertium on irc.oftc.net
 
 See also the file AUTHORS included in this distribution.
