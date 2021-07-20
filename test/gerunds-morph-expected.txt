@@ -1,0 +1,40 @@
+[-dV1RG2xr8PE#0] ^буяу/буя<v><tv><ger><nom>/буяу<n><attr>/буяу<n><nom>/буяу<n><nom>+и<cop><aor><p3><pl>/буяу<n><nom>+и<cop><aor><p3><sg>$
+[/-dV1RG2xr8PE]
+[1Vdhrdxyl5no#0] ^бию/бие<v><tv><ger><nom>/бию<n><attr>/бию<n><nom>/бию<n><nom>+и<cop><aor><p3><pl>/бию<n><nom>+и<cop><aor><p3><sg>$
+[/1Vdhrdxyl5no]
+[1bEsWeU-SYXc#0] ^баю/бае<v><tv><ger><nom>/бае<v><iv><ger><nom>$
+[/1bEsWeU-SYXc]
+[3tHV6wbkSqmy#0] ^бирүе/бир<vaux><ger><px3sp><nom>/бир<v><tv><ger><px3sp><nom>$
+[/3tHV6wbkSqmy]
+[9uMKIG-tI_Eu#0] ^карау/кара<vaux><ger><nom>/кара<v><tv><ger><nom>/карау<n><attr>/карау<n><nom>/карау<n><nom>+и<cop><aor><p3><pl>/карау<n><nom>+и<cop><aor><p3><sg>$
+[/9uMKIG-tI_Eu]
+[CaaEACin61i7#0] ^төяве/төя<v><tv><ger><px3sp><nom>/төяү<n><px3sp><nom>/төяү<n><px3sp><nom>+и<cop><aor><p3><pl>/төяү<n><px3sp><nom>+и<cop><aor><p3><sg>$
+[/CaaEACin61i7]
+[FbfFAKY6feg7#0] ^укуы/укы<v><tv><ger><px3sp><nom>/укы<v><iv><ger><px3sp><nom>$
+[/FbfFAKY6feg7]
+[GdOqZlTLmZi6#0] ^каравы/кара<vaux><ger><px3sp><nom>/кара<v><tv><ger><px3sp><nom>/карау<n><px3sp><nom>/каравы<n><attr>/каравы<n><nom>/карау<n><px3sp><nom>+и<cop><aor><p3><pl>/карау<n><px3sp><nom>+и<cop><aor><p3><sg>/каравы<n><nom>+и<cop><aor><p3><pl>/каравы<n><nom>+и<cop><aor><p3><sg>$
+[/GdOqZlTLmZi6]
+[J50OYC7VzcBi#0] ^баюы/бае<v><tv><ger><px3sp><nom>/бае<v><iv><ger><px3sp><nom>$
+[/J50OYC7VzcBi]
+[LctDFoaMehrS#0] ^бирү/бир<vaux><ger><nom>/бир<v><tv><ger><nom>$
+[/LctDFoaMehrS]
+[ME3YsKH0o3xU#0] ^төзү/төз<v><tv><ger><nom>/төзе<v><tv><ger><nom>/төзү<n><attr>/төзү<n><nom>/төзү<n><nom>+и<cop><aor><p3><pl>/төзү<n><nom>+и<cop><aor><p3><sg>$
+[/ME3YsKH0o3xU]
+[OjwNlGfgEuCb#0] ^төзүе/төз<v><tv><ger><px3sp><nom>/төзе<v><tv><ger><px3sp><nom>/төзү<n><px3sp><nom>/төзү<n><px3sp><nom>+и<cop><aor><p3><pl>/төзү<n><px3sp><nom>+и<cop><aor><p3><sg>$
+[/OjwNlGfgEuCb]
+[Q8cGedQKdrQ8#0] ^биюе/бие<v><tv><ger><px3sp><nom>/бию<n><px3sp><nom>/бию<n><px3sp><nom>+и<cop><aor><p3><pl>/бию<n><px3sp><nom>+и<cop><aor><p3><sg>$
+[/Q8cGedQKdrQ8]
+[RVJiptdPQ6yu#0] ^бару/бар<v><tv><ger><nom>/бар<v><iv><ger><nom>$
+[/RVJiptdPQ6yu]
+[WGoz2i72XVrP#0] ^буявы/буя<v><tv><ger><px3sp><nom>/буяу<n><px3sp><nom>/буяу<n><px3sp><nom>+и<cop><aor><p3><pl>/буяу<n><px3sp><nom>+и<cop><aor><p3><sg>$
+[/WGoz2i72XVrP]
+[_jnIVySRwGTr#0] ^сөйләве/сөйлә<v><tv><ger><px3sp><nom>/сөйләү<n><px3sp><nom>/сөйләү<n><px3sp><nom>+и<cop><aor><p3><pl>/сөйләү<n><px3sp><nom>+и<cop><aor><p3><sg>$
+[/_jnIVySRwGTr]
+[m0S_uNunKaCS#0] ^баруы/бар<v><tv><ger><px3sp><nom>/бар<v><iv><ger><px3sp><nom>$
+[/m0S_uNunKaCS]
+[p_CjXvldciFO#0] ^уку/укы<v><tv><ger><nom>/укы<v><iv><ger><nom>$
+[/p_CjXvldciFO]
+[z2r2zKfMUvxG#0] ^төяү/төяү<n><attr>/төяү<n><nom>/төяү<n><nom>+и<cop><aor><p3><pl>/төяү<n><nom>+и<cop><aor><p3><sg>$
+[/z2r2zKfMUvxG]
+[zPn2CBnnUp6q#0] ^сөйләү/сөйлә<v><tv><ger><nom>/сөйләү<n><attr>/сөйләү<n><nom>/сөйләү<n><nom>+и<cop><aor><p3><pl>/сөйләү<n><nom>+и<cop><aor><p3><sg>$
+[/zPn2CBnnUp6q]

@@ -1,0 +1,22 @@
+# [twol] general gerund phonology
+бару
+бирү
+сөйләү
+карау
+буяу
+төяү
+уку
+төзү
+баю
+бию
+# [twol] general gerund phonology and orthography with px3
+баруы
+бирүе
+сөйләве
+каравы
+буявы
+төяве
+укуы
+төзүе
+баюы
+биюе

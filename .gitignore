@@ -16,3 +16,10 @@
 /missing
 /modes
 /*.prob
+/*.hfst
+/*.zhfst
+/.DS_Store
+/*.mode
+/config.in
+/config
+/test/*-output.txt

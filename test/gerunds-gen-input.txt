@@ -1,0 +1,22 @@
+# [twol] general gerund phonology
+^бар<v><iv><ger><nom>$
+^бир<v><tv><ger><nom>$
+^сөйлә<v><tv><ger><nom>$
+^кара<v><tv><ger><nom>$
+^буя<v><tv><ger><nom>$
+^төя<v><tv><ger><nom>$
+^укы<v><tv><ger><nom>$
+^төзе<v><tv><ger><nom>$
+^бае<v><tv><ger><nom>$
+^бие<v><tv><ger><nom>$
+# [twol] general gerund phonology and orthography with px3
+^бар<v><iv><ger><px3sp><nom>$
+^бир<v><tv><ger><px3sp><nom>$
+^сөйлә<v><tv><ger><px3sp><nom>$
+^кара<v><tv><ger><px3sp><nom>$
+^буя<v><tv><ger><px3sp><nom>$
+^төя<v><tv><ger><px3sp><nom>$
+^укы<v><tv><ger><px3sp><nom>$
+^төзе<v><tv><ger><px3sp><nom>$
+^бае<v><tv><ger><px3sp><nom>$
+^бие<v><tv><ger><px3sp><nom>$

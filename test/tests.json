@@ -1,0 +1,15 @@
+{
+  "gerunds": {
+    "input": "gerunds-input.txt",
+    "mode": "tat-bak-morph"
+  },
+  "gerunds-gen": {
+    "input": "gerunds-gen-input.txt",
+      "mode": "bak-tat",
+      "start-step": "generator"
+  },
+  "tat-bak": {
+    "input": "tat-bak-input.txt",
+    "mode": "tat-bak"
+  }
+}
